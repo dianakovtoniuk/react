@@ -1,4 +1,3 @@
-import componentsImg from './assets/components.png'
 import { CORE_CONCEPTS } from "./data";
 import Header from './components/header/header';
 import CoreConcept from './components/coreConcept';
